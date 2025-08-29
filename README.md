@@ -2,7 +2,7 @@
 
 **`Desenvolvedor # Junior->Pleno`**
 
-Me chamo Natanael de Sousa, tenho 17 anos e sou de São Paulo. Estou finalizando o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande apreço a tecnologia e  pretendo compartilhar meu conhecimento através do YouTube "[Caffesinho](http://www.youtube.com/@TwoSmile-w2x)", onde ensino Programação e entre outras coisas correlacionadas mais na área do entreterimento, mas ainda educativo.
+Me chamo Natanael de Sousa, tenho 17 anos e sou de São Paulo. Estou finalizando o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande apreço a tecnologia e  pretendo compartilhar meu conhecimento através do YouTube "[Cafezinho](http://www.youtube.com/@TwoSmile-w2x)", onde ensino Programação e entre outras coisas correlacionadas mais na área do entreterimento, mas ainda educativo.
 
 <p align="left">
     <a href="http://www.youtube.com/@TwoSmile-w2x">
